@@ -1,3 +1,3 @@
 # html emails
 <h3>This is a repo of different html emails created from scratch.</h3> 
-<p>Some are responsive and most are optimized for gmail.</p>
+<p>Some of the emails are responsive and most are optimized for gmail. In every case these are html coded emails and not simply images of information.</p>
