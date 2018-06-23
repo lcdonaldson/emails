@@ -11,5 +11,6 @@ Full emails as a whole and A La Carte sections including:
 - Footer
 - Content
 - Banners
+- Accounts
 - Static Components
 ```
